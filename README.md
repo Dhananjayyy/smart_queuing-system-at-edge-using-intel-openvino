@@ -1,1 +1,0 @@
-# smart_queuing-system-at-edge-using-intel-openvino
